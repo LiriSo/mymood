@@ -1,0 +1,242 @@
+[
+	{
+		"i_code" : 1001,
+		"i_name" : "משקולת",
+		"i_desc" : "",
+		"color" : "אפור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1002,
+		"i_name" : "מחשבון",
+		"i_desc" : "",
+		"color" : "אפור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1003,
+		"i_name" : "מחשב",
+		"i_desc" : "",
+		"color" : "סגול",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1004,
+		"i_name" : "טבעת",
+		"i_desc" : "",
+		"color" : "תכלת",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1005,
+		"i_name" : "כוסות יין",
+		"i_desc" : "",
+		"color" : "כחול",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1006,
+		"i_name" : "אש",
+		"i_desc" : "",
+		"color" : "כתום",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1007,
+		"i_name" : "עלה",
+		"i_desc" : "",
+		"color" : "ירוק",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1008,
+		"i_name" : "פופקורן",
+		"i_desc" : "",
+		"color" : "תכלת",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1009,
+		"i_name" : "שופינג",
+		"i_desc" : "",
+		"color" : "ורוד",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1010,
+		"i_name" : "אקדמיה",
+		"i_desc" : "",
+		"color" : "תכלת",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1011,
+		"i_name" : "משקפי שמש",
+		"i_desc" : "",
+		"color" : "כתום",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1012,
+		"i_name" : "משקה חם",
+		"i_desc" : "",
+		"color" : "צהוב",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1013,
+		"i_name" : "עץ",
+		"i_desc" : "",
+		"color" : "ירוק",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1014,
+		"i_name" : "מחשב",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1015,
+		"i_name" : "לוגו",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 109.9,
+		"c_price" : 109.9
+	},
+	{
+		"i_code" : 1017,
+		"i_name" : "אש",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1018,
+		"i_name" : "טיל",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1019,
+		"i_name" : "עקבות כלב",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1020,
+		"i_name" : "חד קרן",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1021,
+		"i_name" : "שעון",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1022,
+		"i_name" : "לשון",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1023,
+		"i_name" : "משקפי שמש",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1024,
+		"i_name" : "ענן גשם",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1025,
+		"i_name" : "שריר",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1026,
+		"i_name" : "גל",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1027,
+		"i_name" : "עץ",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1028,
+		"i_name" : "ארנב",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1029,
+		"i_name" : "אזניות",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1030,
+		"i_name" : "כוסות יין",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	},
+	{
+		"i_code" : 1031,
+		"i_name" : "משקולת",
+		"i_desc" : "",
+		"color" : "שחור",
+		"f_price" : 89.9,
+		"c_price" : 89.9
+	}
+]

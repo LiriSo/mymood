@@ -6,8 +6,10 @@
 		"color" : "אפור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "פנאי",
+		"tag_2" : "ספורט",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1002,
@@ -16,8 +18,10 @@
 		"color" : "אפור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "לימודים",
+		"tag_2" : "עבודה",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1003,
@@ -26,8 +30,10 @@
 		"color" : "סגול",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "לימודים",
+		"tag_2" : "עבודה",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1004,
@@ -36,8 +42,10 @@
 		"color" : "תכלת",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "פנאי",
+		"tag_2" : "משפחה",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1005,
@@ -46,8 +54,10 @@
 		"color" : "כחול",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "פנאי",
+		"tag_2" : "חברים",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1006,
@@ -56,8 +66,10 @@
 		"color" : "כתום",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "טבע",
+		"tag_2" : null,
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1007,
@@ -66,8 +78,10 @@
 		"color" : "ירוק",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "טבע",
+		"tag_2" : null,
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1008,
@@ -76,8 +90,10 @@
 		"color" : "תכלת",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "פנאי",
+		"tag_2" : "חברים",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1009,
@@ -86,8 +102,10 @@
 		"color" : "ורוד",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "פנאי",
+		"tag_2" : "חברים",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1010,
@@ -96,8 +114,10 @@
 		"color" : "תכלת",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "לימודים",
+		"tag_2" : "עבודה",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1011,
@@ -106,8 +126,10 @@
 		"color" : "כתום",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "פנאי",
+		"tag_2" : "חופשה",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1012,
@@ -116,8 +138,10 @@
 		"color" : "צהוב",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "פנאי",
+		"tag_2" : "משפחה",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1013,
@@ -126,8 +150,10 @@
 		"color" : "ירוק",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "טבע",
+		"tag_2" : "חופשה",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1014,
@@ -136,8 +162,10 @@
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "לימודים",
+		"tag_2" : "עבודה",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1015,
@@ -146,8 +174,10 @@
 		"color" : "שחור",
 		"f_price" : 109.9,
 		"c_price" : 109.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "אחר",
+		"tag_2" : "פנאי",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1017,
@@ -156,8 +186,10 @@
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "טבע",
+		"tag_2" : null,
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1018,
@@ -166,8 +198,10 @@
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "חלל",
+		"tag_2" : "משפחה",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1019,
@@ -176,8 +210,10 @@
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "בעלי חיים",
+		"tag_2" : "טבע",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1020,
@@ -186,8 +222,10 @@
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "בעלי חיים",
+		"tag_2" : null,
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1021,
@@ -196,8 +234,10 @@
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "פנאי",
+		"tag_2" : "עבודה",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1022,
@@ -206,8 +246,10 @@
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "חברים",
+		"tag_2" : "פנאי",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1023,
@@ -216,8 +258,10 @@
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "פנאי",
+		"tag_2" : "חופשה",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1024,
@@ -226,8 +270,10 @@
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "מזג אוויר",
+		"tag_2" : "טבע",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1025,
@@ -236,8 +282,10 @@
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "פנאי",
+		"tag_2" : "ספורט",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1026,
@@ -246,8 +294,10 @@
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "פנאי",
+		"tag_2" : "ספורט",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1027,
@@ -256,8 +306,10 @@
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "טבע",
+		"tag_2" : "חופשה",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1028,
@@ -266,8 +318,10 @@
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "בעלי חיים",
+		"tag_2" : "טבע",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1029,
@@ -276,8 +330,10 @@
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "פנאי",
+		"tag_2" : "משפחה",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1030,
@@ -286,8 +342,10 @@
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "פנאי",
+		"tag_2" : "חברים",
+		"tag_3" : null,
+		"tag_4" : null
 	},
 	{
 		"i_code" : 1031,
@@ -296,7 +354,9 @@
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
-		"tags" : null,
-		"sizes" : null
+		"tag_1" : "פנאי",
+		"tag_2" : "ספורט",
+		"tag_3" : null,
+		"tag_4" : null
 	}
 ]

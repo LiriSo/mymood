@@ -1,0 +1,302 @@
+[
+	{
+		"i_code" : 1001,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1002,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1003,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 0,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1004,
+		"size_XS" : 3,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1005,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1006,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 0,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1007,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1008,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1009,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 0,
+		"size_XXL" : 3,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1010,
+		"size_XS" : 0,
+		"size_S" : 0,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1011,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1012,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1013,
+		"size_XS" : 2,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 2,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1014,
+		"size_XS" : 0,
+		"size_S" : 0,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1015,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1017,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1018,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 1,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1019,
+		"size_XS" : 0,
+		"size_S" : 0,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1020,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1021,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1022,
+		"size_XS" : 0,
+		"size_S" : 0,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1023,
+		"size_XS" : 2,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1024,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1025,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1026,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 3,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1027,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1028,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1029,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1030,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	},
+	{
+		"i_code" : 1031,
+		"size_XS" : 0,
+		"size_S" : 5,
+		"size_M" : 5,
+		"size_L" : 5,
+		"size_XL" : 5,
+		"size_XXL" : 0,
+		"size_XXXL" : 0
+	}
+]

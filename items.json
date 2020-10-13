@@ -5,7 +5,8 @@
 		"i_desc" : "",
 		"color" : "אפור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1002,
@@ -13,7 +14,8 @@
 		"i_desc" : "",
 		"color" : "אפור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1003,
@@ -21,7 +23,8 @@
 		"i_desc" : "",
 		"color" : "סגול",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1004,
@@ -29,7 +32,8 @@
 		"i_desc" : "",
 		"color" : "תכלת",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1005,
@@ -37,7 +41,8 @@
 		"i_desc" : "",
 		"color" : "כחול",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1006,
@@ -45,7 +50,8 @@
 		"i_desc" : "",
 		"color" : "כתום",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1007,
@@ -53,7 +59,8 @@
 		"i_desc" : "",
 		"color" : "ירוק",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1008,
@@ -61,7 +68,8 @@
 		"i_desc" : "",
 		"color" : "תכלת",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1009,
@@ -69,7 +77,8 @@
 		"i_desc" : "",
 		"color" : "ורוד",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1010,
@@ -77,7 +86,8 @@
 		"i_desc" : "",
 		"color" : "תכלת",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1011,
@@ -85,7 +95,8 @@
 		"i_desc" : "",
 		"color" : "כתום",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1012,
@@ -93,7 +104,8 @@
 		"i_desc" : "",
 		"color" : "צהוב",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1013,
@@ -101,7 +113,8 @@
 		"i_desc" : "",
 		"color" : "ירוק",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1014,
@@ -109,7 +122,8 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1015,
@@ -117,7 +131,8 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 109.9,
-		"c_price" : 109.9
+		"c_price" : 109.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1017,
@@ -125,7 +140,8 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1018,
@@ -133,7 +149,8 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1019,
@@ -141,7 +158,8 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1020,
@@ -149,7 +167,8 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1021,
@@ -157,7 +176,8 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1022,
@@ -165,7 +185,8 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1023,
@@ -173,7 +194,8 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1024,
@@ -181,7 +203,8 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1025,
@@ -189,7 +212,8 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1026,
@@ -197,7 +221,8 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1027,
@@ -205,7 +230,8 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1028,
@@ -213,7 +239,8 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1029,
@@ -221,7 +248,8 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1030,
@@ -229,7 +257,8 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	},
 	{
 		"i_code" : 1031,
@@ -237,6 +266,7 @@
 		"i_desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
-		"c_price" : 89.9
+		"c_price" : 89.9,
+		"tags" : null
 	}
 ]

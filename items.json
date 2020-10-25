@@ -1,8 +1,8 @@
 [
 	{
-		"i_code" : 1001,
-		"i_name" : "משקולת",
-		"i_desc" : "",
+		"id" : 1001,
+		"name" : "משקולת",
+		"desc" : "אימון_משקולות",
 		"color" : "אפור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
@@ -12,9 +12,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1002,
-		"i_name" : "מחשבון",
-		"i_desc" : "",
+		"id" : 1002,
+		"name" : "מחשבון",
+		"desc" : "מחשבון",
 		"color" : "אפור",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
@@ -24,9 +24,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1003,
-		"i_name" : "מחשב",
-		"i_desc" : "",
+		"id" : 1003,
+		"name" : "מחשב",
+		"desc" : "",
 		"color" : "סגול",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
@@ -36,9 +36,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1004,
-		"i_name" : "טבעת",
-		"i_desc" : "",
+		"id" : 1004,
+		"name" : "טבעת",
+		"desc" : "",
 		"color" : "תכלת",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
@@ -48,9 +48,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1005,
-		"i_name" : "כוסות יין",
-		"i_desc" : "",
+		"id" : 1005,
+		"name" : "כוסות יין",
+		"desc" : "",
 		"color" : "כחול",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
@@ -60,9 +60,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1006,
-		"i_name" : "אש",
-		"i_desc" : "",
+		"id" : 1006,
+		"name" : "אש",
+		"desc" : "",
 		"color" : "כתום",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
@@ -72,9 +72,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1007,
-		"i_name" : "עלה",
-		"i_desc" : "",
+		"id" : 1007,
+		"name" : "עלה",
+		"desc" : "",
 		"color" : "ירוק",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
@@ -84,9 +84,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1008,
-		"i_name" : "פופקורן",
-		"i_desc" : "",
+		"id" : 1008,
+		"name" : "פופקורן",
+		"desc" : "",
 		"color" : "תכלת",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
@@ -96,9 +96,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1009,
-		"i_name" : "שופינג",
-		"i_desc" : "",
+		"id" : 1009,
+		"name" : "שופינג",
+		"desc" : "",
 		"color" : "ורוד",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
@@ -108,9 +108,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1010,
-		"i_name" : "אקדמיה",
-		"i_desc" : "",
+		"id" : 1010,
+		"name" : "אקדמיה",
+		"desc" : "",
 		"color" : "תכלת",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
@@ -120,9 +120,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1011,
-		"i_name" : "משקפי שמש",
-		"i_desc" : "",
+		"id" : 1011,
+		"name" : "משקפי שמש",
+		"desc" : "",
 		"color" : "כתום",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
@@ -132,9 +132,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1012,
-		"i_name" : "משקה חם",
-		"i_desc" : "",
+		"id" : 1012,
+		"name" : "משקה חם",
+		"desc" : "",
 		"color" : "צהוב",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
@@ -144,9 +144,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1013,
-		"i_name" : "עץ",
-		"i_desc" : "",
+		"id" : 1013,
+		"name" : "עץ",
+		"desc" : "",
 		"color" : "ירוק",
 		"f_price" : 89.9,
 		"c_price" : 89.9,
@@ -156,9 +156,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1014,
-		"i_name" : "מחשב",
-		"i_desc" : "",
+		"id" : 1014,
+		"name" : "מחשב",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 49.9,
@@ -168,9 +168,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1015,
-		"i_name" : "לוגו",
-		"i_desc" : "",
+		"id" : 1015,
+		"name" : "לוגו",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 109.9,
 		"c_price" : 69.9,
@@ -180,9 +180,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1017,
-		"i_name" : "אש",
-		"i_desc" : "",
+		"id" : 1017,
+		"name" : "אש",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 49.9,
@@ -192,9 +192,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1018,
-		"i_name" : "טיל",
-		"i_desc" : "",
+		"id" : 1018,
+		"name" : "טיל",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 49.9,
@@ -204,9 +204,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1019,
-		"i_name" : "עקבות כלב",
-		"i_desc" : "",
+		"id" : 1019,
+		"name" : "עקבות כלב",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 49.9,
@@ -216,9 +216,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1020,
-		"i_name" : "חד קרן",
-		"i_desc" : "",
+		"id" : 1020,
+		"name" : "חד קרן",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 49.9,
@@ -228,9 +228,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1021,
-		"i_name" : "שעון",
-		"i_desc" : "",
+		"id" : 1021,
+		"name" : "שעון",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 49.9,
@@ -240,9 +240,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1022,
-		"i_name" : "לשון",
-		"i_desc" : "",
+		"id" : 1022,
+		"name" : "לשון",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 49.9,
@@ -252,9 +252,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1023,
-		"i_name" : "משקפי שמש",
-		"i_desc" : "",
+		"id" : 1023,
+		"name" : "משקפי שמש",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 49.9,
@@ -264,9 +264,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1024,
-		"i_name" : "ענן גשם",
-		"i_desc" : "",
+		"id" : 1024,
+		"name" : "ענן גשם",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 49.9,
@@ -276,9 +276,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1025,
-		"i_name" : "שריר",
-		"i_desc" : "",
+		"id" : 1025,
+		"name" : "שריר",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 49.9,
@@ -288,9 +288,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1026,
-		"i_name" : "גל",
-		"i_desc" : "",
+		"id" : 1026,
+		"name" : "גל",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 49.9,
@@ -300,9 +300,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1027,
-		"i_name" : "עץ",
-		"i_desc" : "",
+		"id" : 1027,
+		"name" : "עץ",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 49.9,
@@ -312,9 +312,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1028,
-		"i_name" : "ארנב",
-		"i_desc" : "",
+		"id" : 1028,
+		"name" : "ארנב",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 49.9,
@@ -324,9 +324,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1029,
-		"i_name" : "אזניות",
-		"i_desc" : "",
+		"id" : 1029,
+		"name" : "אזניות",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 49.9,
@@ -336,9 +336,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1030,
-		"i_name" : "כוסות יין",
-		"i_desc" : "",
+		"id" : 1030,
+		"name" : "כוסות יין",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 49.9,
@@ -348,9 +348,9 @@
 		"tag_4" : null
 	},
 	{
-		"i_code" : 1031,
-		"i_name" : "משקולת",
-		"i_desc" : "",
+		"id" : 1031,
+		"name" : "משקולת",
+		"desc" : "",
 		"color" : "שחור",
 		"f_price" : 89.9,
 		"c_price" : 49.9,

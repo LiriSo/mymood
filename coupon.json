@@ -1,6 +1,7 @@
 [
 	{
-		"code" : "NEWUSER20",
-		"discount" : 0.2
+		"code" : "MYMOOD20",
+		"discount" : 0.2,
+		"min" : 200
 	}
 ]
